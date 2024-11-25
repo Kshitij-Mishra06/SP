@@ -1,0 +1,8 @@
+int main() {
+    int num = 10;
+    float result = num * 2.5;
+    if (num > 5) {
+        result = result + num;
+    }
+    return 0;
+}
